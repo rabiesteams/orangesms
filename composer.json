@@ -1,0 +1,18 @@
+{
+    "name": "rabiesteams/orangesms",
+    "description": "Package Laravel pour envoyer des SMS via l'API Orange Côte d'Ivoire.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "rabiesteams\\Orangesms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rabiesteams"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
